@@ -63,4 +63,4 @@ jobs:
           app-name: 'jyoweb'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C48781A5A74F453AA4B4E234E6DD106C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B10B149824C42818C676656F401CAC1 }}
